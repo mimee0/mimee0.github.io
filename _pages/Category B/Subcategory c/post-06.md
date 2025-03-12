@@ -8,12 +8,11 @@ thumbnail: "/assets/img/thumbnail/book.jpg"
 bookmark: true
 ---
 
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
     </head>
     <body>
-        <p>Hello, artists!</p>
+        <p>Hello, world!</p>
     </body>
 </html>
