@@ -4,7 +4,7 @@ tags:
     - sing
     - education
 date: "2025-03-10"
-thumbnail: "[/assets/img/thumbnail/book.jpg](https://images.pexels.com/photos/1303081/pexels-photo-1303081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"
+thumbnail: "https://images.pexels.com/photos/1303081/pexels-photo-1303081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 bookmark: true
 ---
 
