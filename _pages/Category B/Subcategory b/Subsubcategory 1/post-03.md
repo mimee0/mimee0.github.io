@@ -6,4 +6,4 @@ bookmark: true
 ---
 Jekyll 테마로 github 블로그 개설.
 
-사용테마 : https://github.com/byanko55/jekyll-theme-satellite
+사용테마 : <a href="https://github.com/byanko55/jekyll-theme-satellite">https://github.com/byanko55/jekyll-theme-satellite</a>
